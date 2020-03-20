@@ -1,0 +1,21 @@
+Buy Signals :
+1) When SMA50>SMA200
+2) When RSI<40
+
+Sell Signals 
+1) When SMA50 < 200
+2) When RSI > 65-70
+
+To construct :  Indicator that tells is the price stationary ??
+
+
+Possible strategy:
+
+A1. Use short term EMAs to give a Lvl 1 heads up.
+A2. Use RSI to give a lvl 2 heads up.
+
+
+M.1. Use long term Ma + MACD + Bollinger Bounce for Lvl 3-4 confirmation.
+
+In ranging:
+See if i can use a bollinger bounce.
